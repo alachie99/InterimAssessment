@@ -1,0 +1,26 @@
+[
+    {
+        "employeeID": "ESC100",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+        "name": "Alice Amon",
+        "position": "Production Manager"
+    },
+    {
+        "employeeID": "ESC110",
+        "image": "https://images.unsplash.com/photo-1573496799436-5c34ef41818d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+        "name": "Tracy Frimpong",
+        "position": "IT Manager"
+    },
+    {
+        "employeeID": "ESC120",
+        "image": "https://images.unsplash.com/photo-1573496527892-904f897eb744?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "name": "Geogiette Amakye",
+        "position": "HR Manager"
+    },
+    {
+        "employeeID": "ESC130",
+        "image": "https://images.unsplash.com/photo-1573496528816-a104a722b3db?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "name": "Linda Owusu",
+        "position": "Web Manager"
+    }
+]

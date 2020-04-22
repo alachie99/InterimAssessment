@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Prepare Reports",
+        "staff": "Deodat Adomako",
+        "status": "⁉️"
+    },
+    {
+        "task": "Meet Clients from USA",
+        "staff": "Fred Newman",
+        "status": "📶"
+    },
+    {
+        "task": "File the Employee documents",
+        "staff": "Grace Asitey",
+        "status": "✅"
+    },
+    {
+        "task": "Board Meeting With the CEO",
+        "staff": "All Department Heads",
+        "status": "✳️"
+    }
+]
